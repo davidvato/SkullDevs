@@ -1,0 +1,43 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.container{
+text-align: center !important;
+}
+
+header img{
+width: 500px !important;
+}
+
+header{
+padding: 4px;
+}
+
+h2.section-heading {
+padding-top: 30px;
+}
+
+section {
+padding: 15px 0;
+}
+
+section h2.section-heading {
+margin-top: 0;
+margin-bottom: 15px;  
+font-family: 'Hammersmith One', sans-serif;
+}
+
+button.btn.btn-primary {
+  margin-top: 15px;
+  font-family: 'Orbitron', sans-serif;
+}
+
+img.img-responsive {
+  margin-top: 15px;
+}
