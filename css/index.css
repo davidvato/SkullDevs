@@ -17,7 +17,7 @@ width: 500px !important;
 }
 
 header{
-padding: 90px;
+padding: 10px;
 }
 
 h2.section-heading {
@@ -51,7 +51,7 @@ img.img-responsive {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #fff;
+  background-color: white;
   /* change if the mask should have another color then white */
   z-index: 99;
   /* makes sure it stays on top */
@@ -65,7 +65,8 @@ img.img-responsive {
   /* centers the loading animation horizontally one the screen */
   top: 50%;
   /* centers the loading animation vertically one the screen */
-  background-image: url(https://raw.githubusercontent.com/niklausgerber/PreLoadMe/master/img/status.gif);
+  /*background-image: url(https://raw.githubusercontent.com/niklausgerber/PreLoadMe/master/img/status.gif);*/
+  background-image: url(https://skulldevs.com/images/icono.ico);
   /* path to your loading animation */
   background-repeat: no-repeat;
   background-position: center;
